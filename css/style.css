@@ -1,0 +1,36 @@
+
+body{
+	background-image: url("../images/Background-Websites-Design.jpg");
+	background-size: cover;
+}
+
+.home-link{
+	text-align: center;
+	background: blue;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+	border-radius: 50px;
+	font-size: 2em;
+	color: white;
+}
+.canvas-screen{
+	
+	text-align: center;
+}
+
+
+
+.boite-article{
+	margin: 2em 0em;
+
+	background-color: white;
+}
+
+.titre-article{
+	text-align: center;
+}
+
+.paragraphe-article{
+
+}
+
